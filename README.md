@@ -230,8 +230,9 @@ if t_object < t_current:
 ### 运行效果 GIF
 
 效果展示如下：
-
-![Phong Shading Demo](p0/phong.gif)
+<p align="center">
+  <img src="p0/phong.gif" alt="项目运行演示" width="650">
+</p>
 
 ---
 
